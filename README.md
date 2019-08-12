@@ -1,4 +1,5 @@
 # HNColor
+<<<<<<< HEAD
 
 [![CI Status](https://img.shields.io/travis/iOSMonk/HNColor.svg?style=flat)](https://travis-ci.org/iOSMonk/HNColor)
 [![Version](https://img.shields.io/cocoapods/v/HNColor.svg?style=flat)](https://cocoapods.org/pods/HNColor)
@@ -27,3 +28,6 @@ iOSMonk, 898300117@qq.com
 ## License
 
 HNColor is available under the MIT license. See the LICENSE file for more info.
+=======
+颜色的封装
+>>>>>>> 73d3b66b203e724a572fdad59d75556e2cb179d6
