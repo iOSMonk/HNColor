@@ -1,0 +1,6 @@
+framework module HNColor {
+  umbrella header "HNColor-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - HNColor (0.1.0)
+
+DEPENDENCIES:
+  - HNColor (from `../`)
+
+EXTERNAL SOURCES:
+  HNColor:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  HNColor: 829a2e3369c9f5c5844d18b575016546b3b16116
+
+PODFILE CHECKSUM: b53cadc646ded709fdf6ce2caa74b39293c07bda
+
+COCOAPODS: 1.7.0

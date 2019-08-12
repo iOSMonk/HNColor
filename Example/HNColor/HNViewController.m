@@ -8,6 +8,9 @@
 
 #import "HNViewController.h"
 
+#import "UIColor+HexColor.h"
+
+
 @interface HNViewController ()
 
 @end
@@ -17,7 +20,8 @@
 - (void)viewDidLoad
 {
     [super viewDidLoad];
-	// Do any additional setup after loading the view, typically from a nib.
+    self.view.backgroundColor = [UIColor colorWithHexString:@"ccddaa"];
+    
 }
 
 - (void)didReceiveMemoryWarning
